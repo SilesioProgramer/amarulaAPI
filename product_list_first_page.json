@@ -1,0 +1,262 @@
+[
+    {
+        "id_produto": 1,
+        "id_bancada": 1,
+        "nome_produto": "Pixel 5",
+        "photo_produto": "https://m.media-amazon.com/images/I/81AqwYyZjzL.jpg",
+        "preco": 200000,
+        "classificao_produto": 4,
+        "nome_bancada": "Tele-Pambala",
+        "categoria_produto": "Telemoveis"
+    },
+    {
+        "id_produto": 2,
+        "id_bancada": 1,
+        "nome_produto": "Galaxy 10",
+        "photo_produto": "https://m.media-amazon.com/images/I/31M3hJH7aJL._AC_SY580_.jpg",
+        "preco": 250000,
+        "classificao_produto": 5,
+        "nome_bancada": "Tele-Pambala",
+        "categoria_produto": "Telemoveis"
+    },
+    {
+        "id_produto": 3,
+        "id_bancada": 1,
+        "nome_produto": "Galaxy Note 10 Plus",
+        "photo_produto": "https://m.media-amazon.com/images/I/71JJB8w5erL._SL1500_.jpg",
+        "preco": 300000,
+        "classificao_produto": 5,
+        "nome_bancada": "Tele-Pambala",
+        "categoria_produto": "Telemoveis"
+    },
+    {
+        "id_produto": 4,
+        "id_bancada": 1,
+        "nome_produto": "P50",
+        "photo_produto": "https://media.router-switch.com/media/catalog/product/cache/b90fceee6a5fa7acd36a04c7b968181c/h/u/huawei-p50-pocket-black.jpg",
+        "preco": 180000,
+        "classificao_produto": 5,
+        "nome_bancada": "Tele-Pambala",
+        "categoria_produto": "Telemoveis"
+    },
+    {
+        "id_produto": 5,
+        "id_bancada": 1,
+        "nome_produto": "Iphone 8",
+        "photo_produto": "https://m.media-amazon.com/images/I/61zN50rYWwL.jpg",
+        "preco": 400000,
+        "classificao_produto": 3,
+        "nome_bancada": "Tele-Pambala",
+        "categoria_produto": "Telemoveis"
+    },
+    {
+        "id_produto": 6,
+        "id_bancada": 1,
+        "nome_produto": "Iphone 11",
+        "photo_produto": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone11-purple-2019?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1611169055000",
+        "preco": 500000,
+        "classificao_produto": 2,
+        "nome_bancada": "Tele-Pambala",
+        "categoria_produto": "Telemoveis"
+    },
+    {
+        "id_produto": 7,
+        "id_bancada": 1,
+        "nome_produto": "Iphone 13",
+        "photo_produto": "https://files.tecnoblog.net/wp-content/uploads/2021/09/iphone-13-produto-2-700x700.png",
+        "preco": 600000,
+        "classificao_produto": 4,
+        "nome_bancada": "Tele-Pambala",
+        "categoria_produto": "Telemoveis"
+    },
+    {
+        "id_produto": 8,
+        "id_bancada": 1,
+        "nome_produto": "Nokia G30",
+        "photo_produto": "https://mobilefactbd.com/wp-content/uploads/2021/07/Nokia-G30.jpg",
+        "preco": 100000,
+        "classificao_produto": 3,
+        "nome_bancada": "Tele-Pambala",
+        "categoria_produto": "Telemoveis"
+    },
+    {
+        "id_produto": 9,
+        "id_bancada": 2,
+        "nome_produto": "HP Pavilion 14",
+        "photo_produto": "https://m.media-amazon.com/images/I/71K4Fs-UVlL._SL1500_.jpg",
+        "preco": 500000,
+        "classificao_produto": 5,
+        "nome_bancada": "Laptops Store",
+        "categoria_produto": "Laptop"
+    },
+    {
+        "id_produto": 10,
+        "id_bancada": 2,
+        "nome_produto": "HP Omen 15",
+        "photo_produto": "https://www.notebookcheck.net/uploads/tx_nbc2/HPOmen15-dh__1__01.jpg",
+        "preco": 300000,
+        "classificao_produto": 3,
+        "nome_bancada": "Laptops Store",
+        "categoria_produto": "Laptop"
+    },
+    {
+        "id_produto": 11,
+        "id_bancada": 2,
+        "nome_produto": "Alienware M15",
+        "photo_produto": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/alienware-notebooks/alienware-17-r5-non-touch/spi/ng/notebook-alienware-17-r5-campaign-hero-504x350-ng.psd?fmt=jpg&wid=570&hei=400",
+        "preco": 400000,
+        "classificao_produto": 4,
+        "nome_bancada": "Laptops Store",
+        "categoria_produto": "Laptop"
+    },
+    {
+        "id_produto": 12,
+        "id_bancada": 2,
+        "nome_produto": "Dell XPS 13 (9310)",
+        "photo_produto": "https://i.pcmag.com/imagery/reviews/05l2EoHgxLKDb5dq2UGTpdR-17.fit_lim.size_180x102.v1604675195.jpg",
+        "preco": 600000,
+        "classificao_produto": 5,
+        "nome_bancada": "Laptops Store",
+        "categoria_produto": "Laptop"
+    },
+    {
+        "id_produto": 13,
+        "id_bancada": 2,
+        "nome_produto": "Lenovo IdeaPad 3 14",
+        "photo_produto": "https://i.pcmag.com/imagery/reviews/0674w0QBjvMdOZlsdEsI6Dk-1.fit_lim.size_180x102.v1637181698.jpg",
+        "preco": 800000,
+        "classificao_produto": 3,
+        "nome_bancada": "Laptops Store",
+        "categoria_produto": "Laptop"
+    },
+    {
+        "id_produto": 14,
+        "id_bancada": 2,
+        "nome_produto": "Acer Chromebook Spin 713 ",
+        "photo_produto": "https://i.pcmag.com/imagery/roundup-products/00SJXRKufxk0W5IchvdRFnX.fit_lim.size_180x102.v1645562622.jpg",
+        "preco": 250000,
+        "classificao_produto": 2,
+        "nome_bancada": "Laptops Store",
+        "categoria_produto": "Laptop"
+    },
+    {
+        "id_produto": 15,
+        "id_bancada": 2,
+        "nome_produto": "Lenovo ThinkPad X1 Carbon Gen 10",
+        "photo_produto": "https://i.pcmag.com/imagery/reviews/04nwrNt8d5J58uOPDhHfRiP-1.fit_lim.size_180x102.v1657903935.jpg",
+        "preco": 1000000,
+        "classificao_produto": 5,
+        "nome_bancada": "Laptops Store",
+        "categoria_produto": "Laptop"
+    },
+    {
+        "id_produto": 16,
+        "id_bancada": 2,
+        "nome_produto": "Laptop_8",
+        "photo_produto": "Laptop_8.jpg",
+        "preco": 1500000,
+        "classificao_produto": 4,
+        "nome_bancada": "Laptops Store",
+        "categoria_produto": "Laptop"
+    },
+    {
+        "id_produto": 17,
+        "id_bancada": 2,
+        "nome_produto": "LG Gram 17 ",
+        "photo_produto": "https://i.pcmag.com/imagery/reviews/05wp7IsZiLV2J5B4I62a6az-1.fit_lim.size_180x102.v1658766195.jpg",
+        "preco": 200000,
+        "classificao_produto": 3,
+        "nome_bancada": "Laptops Store",
+        "categoria_produto": "Laptop"
+    },
+    {
+        "id_produto": 18,
+        "id_bancada": 2,
+        "nome_produto": "HP Spectre x360 13.5",
+        "photo_produto": "https://i.pcmag.com/imagery/reviews/063ieDcValKrwg8kfRAKCSA-1.fit_lim.size_180x102.v1659976935.jpg",
+        "preco": 300000,
+        "classificao_produto": 5,
+        "nome_bancada": "Laptops Store",
+        "categoria_produto": "Laptop"
+    },
+    {
+        "id_produto": 19,
+        "id_bancada": 2,
+        "nome_produto": "Microsoft Surface Pro 8",
+        "photo_produto": "https://i.pcmag.com/imagery/reviews/01OQN7sePUgsfxPSDKD4n0G-2.fit_lim.size_180x102.v1633361884.jpg",
+        "preco": 15000000,
+        "classificao_produto": 4,
+        "nome_bancada": "Laptops Store",
+        "categoria_produto": "Laptop"
+    },
+    {
+        "id_produto": 20,
+        "id_bancada": 2,
+        "nome_produto": "Apple MacBook Air",
+        "photo_produto": "https://i.pcmag.com/imagery/reviews/01mBttlv1qMiXYpc1bfOj1h-1.fit_lim.size_180x102.v1657726621.jpg",
+        "preco": 300000,
+        "classificao_produto": 3,
+        "nome_bancada": "Laptops Store",
+        "categoria_produto": "Laptop"
+    },
+    {
+        "id_produto": 21,
+        "id_bancada": 2,
+        "nome_produto": "MSI Katana GF66",
+        "photo_produto": "https://i.pcmag.com/imagery/reviews/07FMJxND7Ck3AGe97FaZOek-1.fit_lim.size_180x102.v1640182987.jpg",
+        "preco": 200000,
+        "classificao_produto": 5,
+        "nome_bancada": "Laptops Store",
+        "categoria_produto": "Laptop"
+    },
+    {
+        "id_produto": 22,
+        "id_bancada": 2,
+        "nome_produto": "Acer Predator Triton 300 SE",
+        "photo_produto": "https://i.pcmag.com/imagery/reviews/05OwUpCaDWZXtvSDghGhUQH-14.fit_lim.size_180x102.v1616438085.jpg",
+        "preco": 400000,
+        "classificao_produto": 5,
+        "nome_bancada": "Laptops Store",
+        "categoria_produto": "Laptop"
+    },
+    {
+        "id_produto": 23,
+        "id_bancada": 2,
+        "nome_produto": "Nikon D850",
+        "photo_produto": "https://cdn.mos.cms.futurecdn.net/L5XRj3vH2pvCUUhLSyCGBn-1200-80.jpg",
+        "preco": 200000,
+        "classificao_produto": 5,
+        "nome_bancada": "Primal Lens",
+        "categoria_produto": "Photografia"
+    },
+    {
+        "id_produto": 24,
+        "id_bancada": 2,
+        "nome_produto": "Nikon D780",
+        "photo_produto": "https://cdn.mos.cms.futurecdn.net/aT32wNDpsZsSvMAtZnNg3G-1200-80.jpg",
+        "preco": 400000,
+        "classificao_produto": 5,
+        "nome_bancada": "Primal Lens",
+        "categoria_produto": "Photografia"
+    },
+    {
+        "id_produto": 25,
+        "id_bancada": 2,
+        "nome_produto": "Canon EOS Rebel SL3 / EOS 250D",
+        "photo_produto": "https://cdn.mos.cms.futurecdn.net/QednDfkH9ZbkcchM89M4cN-1200-80.jpg",
+        "preco": 200000,
+        "classificao_produto": 5,
+        "nome_bancada": "Primal Lens",
+        "categoria_produto": "Photografia"
+    },
+    {
+        "id_produto": 26,
+        "id_bancada": 2,
+        "nome_produto": "Canon EOS 90D",
+        "photo_produto": "https://cdn.mos.cms.futurecdn.net/ydcF996BYF9VDhNiNNhEKR-1200-80.jpg",
+        "preco": 400000,
+        "classificao_produto": 5,
+        "nome_bancada": "Primal Lens",
+        "categoria_produto": "Photografia"
+    }
+]
