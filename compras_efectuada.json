@@ -7,7 +7,9 @@
         "nome_bancada": "Tele-Pambala",
         "nome_produto": "Pixel 5",
         "data_da_compra": "2022-10-16 23:40:32",
-        "photo_produto":"https://m.media-amazon.com/images/I/81AqwYyZjzL.jpg",
+        "photo_produto": "https://m.media-amazon.com/images/I/81AqwYyZjzL.jpg",
+        "preco_base": 200000,
+        "qte": 2,
         "total_pago": 400000
     },
     {
@@ -18,7 +20,9 @@
         "nome_bancada": "Laptops Store",
         "nome_produto": "Lenovo IdeaPad 3 14",
         "data_da_compra": "2022-10-16 23:40:32",
-        "photo_produto":"https://m.media-amazon.com/images/I/31M3hJH7aJL._AC_SY580_.jpg",
+        "photo_produto": "https://m.media-amazon.com/images/I/31M3hJH7aJL._AC_SY580_.jpg",
+        "preco_base": 800000,
+        "qte": 1,
         "total_pago": 800000
     },
     {
@@ -29,7 +33,9 @@
         "nome_bancada": "Laptops Store",
         "nome_produto": "LG Gram 17",
         "data_da_compra": "2022-10-16 23:40:32",
-        "photo_produto":"https://i.pcmag.com/imagery/reviews/05wp7IsZiLV2J5B4I62a6az-1.fit_lim.size_180x102.v1658766195.jpg",
+        "photo_produto": "https://i.pcmag.com/imagery/reviews/05wp7IsZiLV2J5B4I62a6az-1.fit_lim.size_180x102.v1658766195.jpg",
+        "preco_base": 200000,
+        "qte": 1,
         "total_pago": 200000
     },
     {
@@ -41,6 +47,8 @@
         "nome_produto": "HP Spectre x360 13.5",
         "data_da_compra": "2022-10-16 23:40:32",
         "photo_produto": "https://i.pcmag.com/imagery/reviews/063ieDcValKrwg8kfRAKCSA-1.fit_lim.size_180x102.v1659976935.jpg",
+        "preco_base": 300000,
+        "qte": 1,
         "total_pago": 300000
     },
     {
@@ -51,7 +59,9 @@
         "nome_bancada": "Laptops Store",
         "nome_produto": "Apple MacBook Air",
         "data_da_compra": "2022-10-16 23:40:32",
-        "photo_produto":"https://i.pcmag.com/imagery/reviews/01mBttlv1qMiXYpc1bfOj1h-1.fit_lim.size_180x102.v1657726621.jpg",
+        "photo_produto": "https://i.pcmag.com/imagery/reviews/01mBttlv1qMiXYpc1bfOj1h-1.fit_lim.size_180x102.v1657726621.jpg",
+        "preco_base": 300000,
+        "qte": 1,
         "total_pago": 300000
     }
 ]
