@@ -1,0 +1,58 @@
+[
+    {
+        "id_aval": 1,
+        "id_usuario": 1,
+        "nome_usuario": "Silesio Williams",
+        "classificao_produto": 5,
+        "text": "um smartphone muito bom, boa capacidade de armazenamento boa qualidade de camera",
+        "photo_usuario": "https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/users%2FxPsMbGPhiAMER3devjipFqyOBpW2%2Fuploads%2F1658872039100000.jpg?alt=media&token=cd4f6ea8-05a0-4c82-95ce-5d7deac5c0c6"
+    },
+    {
+        "id_aval": 2,
+        "id_usuario": 2,
+        "nome_usuario": "Artur Pastrano",
+        "classificao_produto": 4,
+        "text": "Bom mas nao necessariamente de topo",
+        "photo_usuario": "https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/users%2FxPsMbGPhiAMER3devjipFqyOBpW2%2Fuploads%2F1658872582719000.jpg?alt=media&token=d51b3687-633c-426a-8c4d-86133f741274"
+    },
+    {
+        "id_aval": 3,
+        "id_usuario": 3,
+        "nome_usuario": "Romuario Antonio",
+        "classificao_produto": 3,
+        "text": "nao gosto muito mas ja da",
+        "photo_usuario": "https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/users%2FxPsMbGPhiAMER3devjipFqyOBpW2%2Fuploads%2F1658872039100000.jpg?alt=media&token=cd4f6ea8-05a0-4c82-95ce-5d7deac5c0c6"
+    },
+    {
+        "id_aval": 4,
+        "id_usuario": 4,
+        "nome_usuario": "Loide Fliperama",
+        "classificao_produto": 2,
+        "text": "que horror",
+        "photo_usuario": "https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/users%2FxPsMbGPhiAMER3devjipFqyOBpW2%2Fuploads%2F1658872582719000.jpg?alt=media&token=d51b3687-633c-426a-8c4d-86133f741274"
+    },
+    {
+        "id_aval": 5,
+        "id_usuario": 5,
+        "nome_usuario": "Josefino So",
+        "classificao_produto": 4,
+        "text": "Bom mas nao necessariamente de topo",
+        "photo_usuario": "https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/users%2FxPsMbGPhiAMER3devjipFqyOBpW2%2Fuploads%2F1658872582719000.jpg?alt=media&token=d51b3687-633c-426a-8c4d-86133f741274"
+    },
+    {
+        "id_aval": 6,
+        "id_usuario": 6,
+        "nome_usuario": "Dr Ferro",
+        "classificao_produto": 5,
+        "text": "um smartphone muito bom, boa capacidade de armazenamento boa qualidade de camera",
+        "photo_usuario": "https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/users%2FxPsMbGPhiAMER3devjipFqyOBpW2%2Fuploads%2F1658872039100000.jpg?alt=media&token=cd4f6ea8-05a0-4c82-95ce-5d7deac5c0c6"
+    },
+    {
+        "id_aval": 7,
+        "id_usuario": 7,
+        "nome_usuario": "Mastiga chumbo",
+        "classificao_produto": 4,
+        "text": "Bom mas nao necessariamente de topo",
+        "photo_usuario": "https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/users%2FxPsMbGPhiAMER3devjipFqyOBpW2%2Fuploads%2F1658872582719000.jpg?alt=media&token=d51b3687-633c-426a-8c4d-86133f741274"
+    }
+]
