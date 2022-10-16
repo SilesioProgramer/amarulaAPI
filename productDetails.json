@@ -2,7 +2,7 @@
     "id_produto": 1,
     "id_bancada": 1,
     "nome_produto": "Pixel 5",
-    "photo_produto": "GooglePixel5.jpg",
+    "photo_produto": "https://m.media-amazon.com/images/I/81AqwYyZjzL.jpg",
     "descricao_produto": "Google Pixel 5 is powered by a 1.8GHz octa-core Qualcomm Snapdragon 765G processor. It comes with 8GB of RAM. The Google Pixel 5 runs Android 11 and is powered by a 4080mAh non-removable battery. The Google Pixel 5 supports wireless charging, as well as proprietary fast charging.",
     "categoria_produto": "Telemoveis",
     "classificao_produto": 4,
