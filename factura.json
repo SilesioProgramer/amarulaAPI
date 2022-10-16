@@ -1,5 +1,6 @@
 [
     {
+        "id_compra": 1,
         "nome_produto": "Pixel 5",
         "id_comprador": 1,
         "nome_comprador": "Silesio de Jesus Boavida Williams",
