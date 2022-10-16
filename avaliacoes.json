@@ -2,6 +2,7 @@
     {
         "id_aval": 1,
         "id_usuario": 1,
+        "id_produto": 1,
         "nome_usuario": "Silesio Williams",
         "classificao_produto": 5,
         "text": "um smartphone muito bom, boa capacidade de armazenamento boa qualidade de camera",
@@ -10,6 +11,7 @@
     {
         "id_aval": 2,
         "id_usuario": 2,
+        "id_produto": 1,
         "nome_usuario": "Artur Pastrano",
         "classificao_produto": 4,
         "text": "Bom mas nao necessariamente de topo",
@@ -18,6 +20,7 @@
     {
         "id_aval": 3,
         "id_usuario": 3,
+        "id_produto": 1,
         "nome_usuario": "Romuario Antonio",
         "classificao_produto": 3,
         "text": "nao gosto muito mas ja da",
@@ -26,6 +29,7 @@
     {
         "id_aval": 4,
         "id_usuario": 4,
+        "id_produto": 1,
         "nome_usuario": "Loide Fliperama",
         "classificao_produto": 2,
         "text": "que horror",
@@ -34,6 +38,7 @@
     {
         "id_aval": 5,
         "id_usuario": 5,
+        "id_produto": 1,
         "nome_usuario": "Josefino So",
         "classificao_produto": 4,
         "text": "Bom mas nao necessariamente de topo",
@@ -42,6 +47,7 @@
     {
         "id_aval": 6,
         "id_usuario": 6,
+        "id_produto": 1,
         "nome_usuario": "Dr Ferro",
         "classificao_produto": 5,
         "text": "um smartphone muito bom, boa capacidade de armazenamento boa qualidade de camera",
@@ -50,6 +56,7 @@
     {
         "id_aval": 7,
         "id_usuario": 7,
+        "id_produto": 1,
         "nome_usuario": "Mastiga chumbo",
         "classificao_produto": 4,
         "text": "Bom mas nao necessariamente de topo",
