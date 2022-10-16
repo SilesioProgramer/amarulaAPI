@@ -1,0 +1,16 @@
+[
+    {
+        "nome_produto": "Pixel 5",
+        "id_comprador": 1,
+        "nome_comprador": "Silesio de Jesus Boavida Williams",
+        "preco_base": 200000,
+        "total_pago": 400000,
+        "transportadora": "Nenhuma",
+        "data_da_compra": "2022-10-16 23:40:32",
+        "descricao_produto": "Google Pixel 5 is powered by a 1.8GHz octa-core Qualcomm Snapdragon 765G processor. It comes with 8GB of RAM. The Google Pixel 5 runs Android 11 and is powered by a 4080mAh non-removable battery. The Google Pixel 5 supports wireless charging, as well as proprietary fast charging.",
+        "fabricante": "Google",
+        "classificao_produto": 5,
+        "photo_produto": "https://m.media-amazon.com/images/I/81AqwYyZjzL.jpg",
+        "qte": 2
+    }
+]
