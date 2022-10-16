@@ -1,0 +1,62 @@
+[
+    {
+        "id_bancada": 1,
+        "nome_bancada": "Game shop",
+        "classificacao_bancada": 4.0,
+        "photo_bancada": "https://img.freepik.com/premium-vector/game-shop-with-bag-logo-concept-icon-gaming-symbol_139372-323.jpg?w=2000"
+    },
+    {
+        "id_bancada": 2,
+        "nome_bancada": "PC Numa",
+        "classificacao_bancada": 4.0,
+        "photo_bancada": "https://t3.ftcdn.net/jpg/03/32/86/72/360_F_332867276_m7XiTTagNtOtKTekcB5hRzSUmlL40m7d.jpg"
+    },
+    {
+        "id_bancada": 3,
+        "nome_bancada": "Angola Photos",
+        "classificacao_bancada": 4.0,
+        "photo_bancada": "https://img.freepik.com/premium-vector/vintage-creative-photography-logo-design-photographer-content-creator_9583-505.jpg?w=2000"
+    },
+    {
+        "id_bancada": 4,
+        "nome_bancada": "Ngola computers",
+        "classificacao_bancada": 4.0,
+        "photo_bancada": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/laptop-store-logo-design-template-b8cb62247e5e2338cd49c7961aa59c08_screen.jpg?ts=1603723247"
+    },
+    {
+        "id_bancada": 5,
+        "nome_bancada": "Bizno",
+        "classificacao_bancada": 4.0,
+        "photo_bancada": "https://global-uploads.webflow.com/5e157548d6f7910beea4e2d6/62dea3499594dc2982ac87e2_general-store-free-logo-maker.png"
+    },
+    {
+        "id_bancada": 6,
+        "nome_bancada": "top Phones",
+        "classificacao_bancada": 4.0,
+        "photo_bancada": "https://img.freepik.com/premium-vector/smart-phone-store-logo-vector_8169-118.jpg"
+    },
+    {
+        "id_bancada": 7,
+        "nome_bancada": "Pambala",
+        "classificacao_bancada": 4.0,
+        "photo_bancada": "https://dcassetcdn.com/design_img/698904/214886/214886_4451332_698904_image.jpg"
+    },
+    {
+        "id_bancada": 8,
+        "nome_bancada": "Pambala Nation",
+        "classificacao_bancada": 4.0,
+        "photo_bancada": "https://s3-sa-east-1.amazonaws.com/projetos-artes/fullsize%2F2017%2F05%2F13%2F12%2FLogo-211885_262488_120136716_1182596063.jpg"
+    },
+    {
+        "id_bancada": 9,
+        "nome_bancada": "Dope Consolas",
+        "classificacao_bancada": 4.0,
+        "photo_bancada": "https://i.pinimg.com/736x/72/3d/0a/723d0af616b1fe7d5c7e56a3532be3cd.jpg"
+    },
+    {
+        "id_bancada": 10,
+        "nome_bancada": "Turma do biolo",
+        "classificacao_bancada": 4.0,
+        "photo_bancada": "https://1.bp.blogspot.com/-6pyaE6eCxfM/XejCoWwmEkI/AAAAAAAAAAk/jU8JjVQiZs06JE6qL8mk7UjnRCHkhETJwCLcBGAsYHQ/s1600/LOGOTIPO%2BOFICIAL%2BDA%2BJM.jpg"
+    }
+]
