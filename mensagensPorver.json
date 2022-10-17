@@ -1,0 +1,20 @@
+[
+    {
+        "id_bancada": 1,
+        "mensagem": "sei nao o que escrever",
+        "nome_bancada": "Game shop",
+        "photo_bancada": "https://img.freepik.com/premium-vector/game-shop-with-bag-logo-concept-icon-gaming-symbol_139372-323.jpg?w=2000"
+    },
+    {
+        "id_bancada": 2,
+        "mensagem": "sua compra foi processada",
+        "nome_bancada": "PC Numa",
+        "photo_bancada": "https://t3.ftcdn.net/jpg/03/32/86/72/360_F_332867276_m7XiTTagNtOtKTekcB5hRzSUmlL40m7d.jpg"
+    },
+    {
+        "id_bancada": 3,
+        "mensagem": "what",
+        "nome_bancada": "Angola Photos",
+        "photo_bancada": "https://img.freepik.com/premium-vector/vintage-creative-photography-logo-design-photographer-content-creator_9583-505.jpg?w=2000"
+    }
+]
