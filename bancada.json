@@ -1,9 +1,9 @@
 [
     {
         "id_bancada": 6,
-        "nome_bancada": "",
-        "photo_bancada": "",
-        "descricao_bancada": "",
+        "nome_bancada": "top Phones",
+        "photo_bancada": "https://img.freepik.com/premium-vector/smart-phone-store-logo-vector_8169-118.jpg",
+        "descricao_bancada": "Temos smartphones para todos os bolsos",
         "classificacao_bancada": 4.5
     }
 ]
