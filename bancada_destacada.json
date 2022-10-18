@@ -1,0 +1,34 @@
+[
+    {
+        "id_bancada": 6,
+        "nome_bancada": "top Phones",
+        "descricao_bancada": "Temos smartphones para todos os bolsos",
+        "photo_bancada": "https://img.freepik.com/premium-vector/smart-phone-store-logo-vector_8169-118.jpg",
+        "numero_classificacoes": 2000,
+        "classificacao_bancada": 4.0
+    },
+    {
+        "id_bancada": 3,
+        "nome_bancada": "Angola Photos",
+        "descricao_bancada": "Temos Cameras para todos os bolsos",
+        "photo_bancada": "https://img.freepik.com/premium-vector/vintage-creative-photography-logo-design-photographer-content-creator_9583-505.jpg?w=2000",
+        "numero_classificacoes": 5000,
+        "classificacao_bancada": 4.0
+    },
+    {
+        "id_bancada": 9,
+        "nome_bancada": "Dope Consolas",
+        "descricao_bancada": "Temos consolas para todos os bolsos",
+        "photo_bancada": "https://i.pinimg.com/736x/72/3d/0a/723d0af616b1fe7d5c7e56a3532be3cd.jpg",
+        "numero_classificacoes": 1000,
+        "classificacao_bancada": 4.0
+    },
+    {
+        "id_bancada": 10,
+        "nome_bancada": "Turma do biolo",
+        "descricao_bancada": "Temos smartphones para todos os bolsos",
+        "photo_bancada": "https://1.bp.blogspot.com/-6pyaE6eCxfM/XejCoWwmEkI/AAAAAAAAAAk/jU8JjVQiZs06JE6qL8mk7UjnRCHkhETJwCLcBGAsYHQ/s1600/LOGOTIPO%2BOFICIAL%2BDA%2BJM.jpg",
+        "numero_classificacoes": 2000,
+        "classificacao_bancada": 4.0
+    }
+]
