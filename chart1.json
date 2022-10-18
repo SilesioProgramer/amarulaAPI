@@ -1,0 +1,23 @@
+[{
+    "produto":"Pixel 5",
+    "value": 20.0
+},
+{
+    "produto":"Galaxy 10",
+    "value": 25.0
+}
+,
+{
+    "produto":"P50",
+    "value": 30.0
+}
+,
+{
+    "produto":"G30",
+    "value": 5.0
+}
+,
+{
+    "produto":"Note 10",
+    "value": 15.0
+}]
