@@ -150,16 +150,6 @@
         "categoria_produto": "Laptop"
     },
     {
-        "id_produto": 16,
-        "id_bancada": 2,
-        "nome_produto": "Laptop_8",
-        "photo_produto": "Laptop_8.jpg",
-        "preco": 1500000,
-        "classificao_produto": 4,
-        "nome_bancada": "Laptops Store",
-        "categoria_produto": "Laptop"
-    },
-    {
         "id_produto": 17,
         "id_bancada": 2,
         "nome_produto": "LG Gram 17 ",
